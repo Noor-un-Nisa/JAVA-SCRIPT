@@ -3,11 +3,11 @@
 //  window alert () method instructs thhe browser to display a message and a OK box while  console() is  used to just display some output on the console.
 // code readiability should be high
 // DATA TYPES:
-//1. number => range is from 2 to the power of 53
+//1. number => range is from 2 to the power of 52
 let age=19
 //2. string => in double quotes " or in single quotes ' but double quotes is preferred
 let name="noor"
-//3. bigInt => for  number greater the 2^53
+//3. bigInt => for  number greater the 2^52
 //4. null => it is a standalone value means it is empty
 let city=null;
 //5. undefined => value is not defined
