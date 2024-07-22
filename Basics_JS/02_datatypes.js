@@ -13,7 +13,7 @@ let city=null;
 //5. undefined => value is not defined
 let country;
 //6. boolean => true=1 / false=0 
-let loggedIn=true;
+let loggedIn=true
 //7. symbol => to find uniqueness
 //8. object
 
