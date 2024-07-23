@@ -31,7 +31,7 @@ console.log(typeof id)//symbol
 console.log(typeof anotherId)//symbol
 
 
-// NON-PRIMITIVE(REFERENCE TYPE):Ther are call by refernce.Their referece or  address is given to us.Following are the datatypes included in non-primitive datatypes:
+// NON-PRIMITIVE(REFERENCE TYPE):Ther are call by refernce.Their referece or address is given to us.Following are the datatypes included in non-primitive datatypes:
 //1.Arrays      2.Objects       3.Functions
 
 let names = ["ayesha" , "hadia" , "usama"]// arrays
