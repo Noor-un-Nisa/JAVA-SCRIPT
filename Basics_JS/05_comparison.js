@@ -34,7 +34,7 @@ console.log(undefined<=0)// false
 console.log(undefined==0)// false
 console.log(undefined!=0)// true
 
-//*** === strict check. checks the datatype of  variable. no conversion of datatype in it
+//** === strict check. checks the datatype of  variable. no conversion of datatype in it
 // == conversion occurs
 console.log("2" === 2)// false
 console.log("2" == 2)// true
