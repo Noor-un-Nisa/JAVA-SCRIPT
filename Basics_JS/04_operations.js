@@ -10,7 +10,7 @@ let str1 = "noor "
 let str2 = "un "
 let str3 = "nisa"
 let str = str1 + str2 +str3
-console.log(str);
+console.log(str)
 
 // addition of string and number
 
