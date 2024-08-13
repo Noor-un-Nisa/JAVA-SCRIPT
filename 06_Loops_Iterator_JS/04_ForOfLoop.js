@@ -26,3 +26,36 @@ for (const Name of name) {
     }
     console.log(`name characters: ${Name}`);
 }
+
+// for of loop and maps
+// maps: unique value and key cannot be repeated. always come in an order.
+
+let map = new Map()
+map.set ('Country','Country Code')
+map.set ('Pakistan','Pak')
+map.set ('South Africa','SA')
+map.set ('United States of America','USA')
+map.set ('United Arab Emirates','UAE')
+map.set ('India','IN')
+
+console.log(`Country and their Country Codes: `);
+console.log(map);
+
+for (const countries of map) {
+    console.log(countries);
+}
+
+for (const [country,code] of map) {
+    console.log(`${country} => ${code}`);
+}
+
+// For of Loop and Objects
+
+let myObj = {
+    course1 : 'HTML',
+    course2 : 'JS' 
+}
+
+for (const courses of myObj) {
+    console.log(courses);
+}// for of loop does not work on objects
